@@ -11,7 +11,7 @@ span: 3
 ```image
 span: 6
 plain: true
-src: ./img//web_trainera.png
+src: "./img//web_trainera.png"
 title: "Color on website preview"
 ```
 
