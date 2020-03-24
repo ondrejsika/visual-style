@@ -44,6 +44,11 @@ ReactDOM.render(
         path: "/meetups",
         title: "Meetups",
         content: pageLoader(() => import("./meetups.md"))
+      },
+      {
+        path: "/trainera",
+        title: "Trainera",
+        content: pageLoader(() => import("./trainera.md"))
       }
     ]}
   />,
