@@ -41,6 +41,11 @@ ReactDOM.render(
         content: pageLoader(() => import("./presentation.md"))
       },
       {
+        path: "/social",
+        title: "Social sites",
+        content: pageLoader(() => import("./social.md"))
+      },
+      {
         path: "/meetups",
         title: "Meetups",
         content: pageLoader(() => import("./meetups.md"))
