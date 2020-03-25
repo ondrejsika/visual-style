@@ -3,7 +3,7 @@
 ## additional color
 
 ```color
-value: '#3F7D71'
+value: '#098958'
 name: 'Green'
 span: 3
 ```
@@ -11,8 +11,6 @@ span: 3
 ```image
 span: 6
 plain: true
-src: "./img//web_trainera.png"
+src: "./img/trainera_green.png"
 title: "Color on website preview"
 ```
-
-## logo
