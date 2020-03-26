@@ -31,6 +31,11 @@ ReactDOM.render(
         content: pageLoader(() => import("./fonts.md"))
       },
       {
+        path: "/links-buttons",
+        title: "Links & buttons",
+        content: pageLoader(() => import("./links-buttons.md"))
+      },
+      {
         path: "/rollup",
         title: "Rollup",
         content: pageLoader(() => import("./rollup.md"))
