@@ -10,13 +10,13 @@ title: "Color on website preview"
 ## Links - basic
 
 ```color
-value: '#098958'
+value: '#131480'
 name: 'Link on white'
 span: 3
 ``` 
 
 ```color
-value: '#098958'
+value: '#c8bfb0'
 name: 'Link on white hover'
 span: 3
 ``` 
