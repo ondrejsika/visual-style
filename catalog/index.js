@@ -59,6 +59,11 @@ ReactDOM.render(
         path: "/trainera",
         title: "Trainera",
         content: pageLoader(() => import("./trainera.md"))
+      },
+      {
+        path: "/header-margins",
+        title: "Header margins",
+        content: pageLoader(() => import("./header-margins.md"))
       }
     ]}
   />,
