@@ -61,6 +61,11 @@ ReactDOM.render(
         content: pageLoader(() => import("./trainera.md"))
       },
       {
+        path: "/icons",
+        title: "Icons",
+        content: pageLoader(() => import("./icons.md"))
+      },
+      {
         path: "/header-margins",
         title: "Header margins",
         content: pageLoader(() => import("./header-margins.md"))
