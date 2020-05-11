@@ -1,4 +1,3 @@
-# Fonts
 
 ```image
 plain: true

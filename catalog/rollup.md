@@ -1,4 +1,3 @@
-# Rollup
 
 ```download
 title: Rollup v1 (.pdf, print)

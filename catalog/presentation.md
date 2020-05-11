@@ -1,4 +1,3 @@
-# Presentation
 
 ```download
 title: Presentation - Google

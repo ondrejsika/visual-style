@@ -1,4 +1,3 @@
-# Meetups
 
 Salzburg
 

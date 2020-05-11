@@ -1,5 +1,3 @@
-# Links & buttons
-
 ```image
 span: 3
 plain: true

@@ -2,36 +2,36 @@
 
 export default {
   // Colors
-  background: "#F9F9F9",
+  background: "#f4f4f4",
   textColor: "#333333",
   codeColor: "#00263E",
-  linkColor: "#FF5555",
+  linkColor: "#131480",
 
   // NavigationBar background color, but also sometimes used as a foreground
   // or border color.
   lightColor: "#D6D6D6",
 
   // Used in PageHeader
-  pageHeadingBackground: "#131480",
-  pageHeadingTextColor: "#fff",
+  pageHeadingBackground: "#f4f4f4",
+  pageHeadingTextColor: "#131480",
 
   // Used in Menu and PageHeader to make sure the top parts have
   // the same height.
   pageHeadingHeight: 200,
 
   // Used for navigation bar
-  navBarBackground: "#F2F2F2",
+  navBarBackground: "#f4f4f4",
   navBarTextColor: "#003B5C",
 
   // Used in ResponsiveTabs (tab text), Download specimen (title text).
   // Typography: headings.
-  brandColor: "#003B5C",
+  brandColor: "#808080",
 
-  sidebarColor: "#FFFFFF",
-  sidebarColorText: "#003B5C",
-  sidebarColorTextActive: "#FF5555",
-  sidebarColorLine: "#EBEBEB",
-  sidebarColorHeading: "#003B5C",
+  sidebarColor: "#131480",
+  sidebarColorText: "#e1e1e1",
+  sidebarColorTextActive: "#c8bfb0",
+  sidebarColorLine: "#131480",
+  sidebarColorHeading: "#c8bfb0",
 
   // Used in the html, react, and image specimens.
   bgLight: "#F2F2F2",
