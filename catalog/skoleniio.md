@@ -18,7 +18,7 @@ span: 3
 
 
 ```download
-title: sikalabs.zip
+title: skoleniio.zip
 span: 3
 url: "assets/msd/skoleniio.zip"
 ```
