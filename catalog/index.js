@@ -77,7 +77,7 @@ ReactDOM.render(
       },
       {
         path: "/skoleni-io",
-        title: "Skoleni_io",
+        title: "Skoleni.io",
         content: pageLoader(() => import("./skoleniio.md"))
       },
     ]}
