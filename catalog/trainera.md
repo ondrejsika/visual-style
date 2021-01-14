@@ -14,3 +14,13 @@ plain: true
 src: "./img/trainera_green.png"
 title: "Color on website preview"
 ```
+
+## Social assets
+
+
+```download
+title: trainara.zip
+span: 3
+url: "assets/msd/trainera.zip"
+```
+
