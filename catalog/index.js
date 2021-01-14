@@ -70,6 +70,16 @@ ReactDOM.render(
         title: "Header margins",
         content: pageLoader(() => import("./header-margins.md"))
       }
+      {
+        path: "/sikalabs",
+        title: "SikaLabs",
+        content: pageLoader(() => import("./sikalabs.md"))
+      }
+      {
+        path: "/skoleni-io",
+        title: "Skoleni.io",
+        content: pageLoader(() => import("./skoleniio.md"))
+      }
     ]}
   />,
   document.getElementById("catalog")
