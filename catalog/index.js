@@ -80,6 +80,11 @@ ReactDOM.render(
         title: "Skoleni.io",
         content: pageLoader(() => import("./skoleniio.md"))
       },
+      {
+        path: "/Hashicorp-digitalocean",
+        title: "Hashicorp & digital ocean",
+        content: pageLoader(() => import("./hashicorp-digitalocean.md"))
+      },
     ]}
   />,
   document.getElementById("catalog")
