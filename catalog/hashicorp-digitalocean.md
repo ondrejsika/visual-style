@@ -23,7 +23,7 @@ url: "assets/msd/Digitalocean.zip"
 
 ## WebUI
 
-```Open
+```download
 title: Web UI
 span: 3
 url: "https://xd.adobe.com/view/30c026e3-df17-4ab3-98a0-b032e0969209-6593/"
