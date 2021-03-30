@@ -15,9 +15,9 @@ url: "assets/msd/Hashicorp.zip"
 ```
 
 ```download
-title: Hashicorp.zip
+title: DigitalOcean.zip
 span: 3
-url: "assets/msd/Digitalocean.zip"
+url: "assets/msd/DigitalOcean.zip"
 ```
 
 
