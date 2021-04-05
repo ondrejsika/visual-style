@@ -87,7 +87,7 @@ ReactDOM.render(
       },
       {
         path: "/devopsaci",
-        title: "Devosáci",
+        title: "Devopsáci",
         content: pageLoader(() => import("./devopsaci.md"))
       },
     ]}

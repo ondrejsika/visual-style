@@ -5,14 +5,14 @@
 ```image
 span: 6
 plain: true
-src: ".assets/msd/logo_devopsaci.png"
+src: "./img/logo_devopsaci.png"
 title: "Logo Devopsáci"
 ```
 
 ```image
 span: 6
 plain: true
-src: ".assets/msd/logo_devospaci_variants.png"
+src: "./img/logo_devospaci_variants.png"
 title: "Logo Devopsáci - variants"
 ```
 
@@ -35,7 +35,7 @@ span: 3
 ```image
 span: 6
 plain: true
-src: ".assets/msd/devopsaci_fonts.png"
+src: "./img/devopsaci_fonts.png"
 title: "Logo Devopsáci - variants"
 ```
 
