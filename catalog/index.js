@@ -85,6 +85,11 @@ ReactDOM.render(
         title: "Hashicorp & digital ocean",
         content: pageLoader(() => import("./hashicorp-digitalocean.md"))
       },
+      {
+        path: "/devopsaci",
+        title: "Devosáci",
+        content: pageLoader(() => import("./devopsaci.md"))
+      },
     ]}
   />,
   document.getElementById("catalog")
