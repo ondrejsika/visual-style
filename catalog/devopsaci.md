@@ -53,3 +53,12 @@ span: 3
 url: "assets/msd/devopsaci.zip"
 ```
 
+## Web UI
+
+development mode
+
+```download
+title: Web UI
+span: 3
+url: "https://xd.adobe.com/view/5b24e4c1-9cc1-4a1a-aa3d-baea19ce9676-0e77/"
+```
