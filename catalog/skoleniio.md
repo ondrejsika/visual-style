@@ -3,14 +3,14 @@
 ## colors
 
 ```color
-value: '#131480'
-name: 'Dark blue'
+value: '#1a1a1a'
+name: 'Dark'
 span: 3
 ```
 
 ```color
-value: '#0c3def'
-name: 'light blue'
+value: '#4f4f4f'
+name: 'light'
 span: 3
 ```
 
