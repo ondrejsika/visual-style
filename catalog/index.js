@@ -90,6 +90,11 @@ ReactDOM.render(
         title: "Devopsáci",
         content: pageLoader(() => import("./devopsaci.md"))
       },
+      {
+        path: "/kniha",
+        title: "Kniha",
+        content: pageLoader(() => import("./kniha.md"))
+      },
     ]}
   />,
   document.getElementById("catalog")
