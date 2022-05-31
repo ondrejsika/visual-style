@@ -1,13 +1,13 @@
 ```download
 title: Business Cards v1 (with 2mm bleeds) (.pdf, print)
 subtitle: 442 KB
-url: assets/osf/osf_bc_v1_os.pdf
+url: assets/osf/vizitky 2022.pdf
 ```
 
 ```image
 plain: true
 span: 3
-src: ./img/osf_bc_v1_os_front.jpg
+src: ./img/vizitky-2022.png
 title: front
 ```
 
