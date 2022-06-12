@@ -1,7 +1,7 @@
 ```download
 title: Business Cards v1 (with 2mm bleeds) (.pdf, print)
 subtitle: 442 KB
-url: assets/osf/vizitky 2022.pdf
+url: assets/osf/ondrejsikadevops_business_cards_v2_2022.pdf
 ```
 
 ```image
