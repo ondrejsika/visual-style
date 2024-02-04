@@ -4,8 +4,8 @@
   "dependencies": {
     "@vercel/static-build": "^2.2.0",
     "catalog": "^3.6.0",
-    "react": "^16.12.0",
-    "react-dom": "^16.12.0"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "scripts": {
     "now-build": "yarn run catalog-build",
