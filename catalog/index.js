@@ -56,6 +56,11 @@ ReactDOM.render(
         content: pageLoader(() => import("./ondrejsikadevops-logos.md"))
       },
       {
+        path: "/sikalabs-logos",
+        title: "SikaLabs Logos",
+        content: pageLoader(() => import("./sikalabs-logos.md"))
+      },
+      {
         path: "/meetups",
         title: "Meetups",
         content: pageLoader(() => import("./meetups.md"))
